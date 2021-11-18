@@ -1,5 +1,5 @@
 <p align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajshende247)](https://git.io/streak-stats)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajshende247" />
 </p>
 
 <p align="center">
